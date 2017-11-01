@@ -1,0 +1,9 @@
+mpirun: killing job...
+
+[node025:27721] [[62698,0],0]-[[62698,0],1] mca_oob_tcp_msg_recv: readv failed: Connection reset by peer (104)
+--------------------------------------------------------------------------
+mpirun was unable to cleanly terminate the daemons on the nodes shown
+below. Additional manual cleanup may be required - please refer to
+the "orte-clean" tool for assistance.
+--------------------------------------------------------------------------
+	node055.iceberg.shef.ac.uk
